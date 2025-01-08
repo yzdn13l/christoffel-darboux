@@ -1,0 +1,12 @@
+checkpoint:	 checkpoints/PointNetCls-20250106150625-849
+msg:	 None
+batch_size:	 32
+model:	 PointNetCls
+loss:	 cross_entropy+orthogonality
+epoch:	 100
+num_points:	 1024
+learning_rate:	 0.1
+min_lr:	 0.005
+weight_decay:	 0.0002
+seed:	 849
+workers:	 8

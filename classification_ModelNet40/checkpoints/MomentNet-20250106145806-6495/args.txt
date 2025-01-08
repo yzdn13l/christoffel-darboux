@@ -1,0 +1,12 @@
+checkpoint:	 checkpoints/MomentNet-20250106145806-6495
+msg:	 None
+batch_size:	 32
+model:	 MomentNet
+loss:	 cross_entropy
+epoch:	 100
+num_points:	 1024
+learning_rate:	 0.1
+min_lr:	 0.005
+weight_decay:	 0.0002
+seed:	 6495
+workers:	 8
